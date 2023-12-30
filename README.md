@@ -1,3 +1,6 @@
+
+<img width="1571" alt="Screenshot 2023-12-30 at 12 05 18" src="https://github.com/andrewgrahampowell/social-performance-dashboard-sql/assets/98211756/4727afcb-a7ba-41b9-9c69-398aff75015e">
+
 # Overview:
 
 In the digital age, social media platforms have become the primary medium for brands and individuals to communicate, market, and engage with their audience. Understanding the dynamics of social media interactions is crucial for optimizing content strategy and maximizing engagement. This project aims to delve deep into a dataset representing social media interactions across popular platforms like Facebook, Instagram, Twitter, and TikTok.
